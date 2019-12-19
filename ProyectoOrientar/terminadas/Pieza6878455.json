@@ -1,0 +1,13 @@
+{
+  "idPieza": 6878455,
+  "tipoPieza": "Barra estabilizadora",
+  "destino": "Mexico",
+  "tipoEmbalaje": "Plastico",
+  "orientacionX": 20,
+  "orientacionY": 25,
+  "orientacionZ": 35,
+  "orientacionRealX": 46,
+  "orientacionRealY": 125,
+  "orientacionRealZ": 170,
+  "vueltas": 18
+}

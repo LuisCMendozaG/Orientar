@@ -1,0 +1,13 @@
+{
+  "idPieza": 9283248,
+  "tipoPieza": "chasis",
+  "destino": "Mexico",
+  "tipoEmbalaje": "madera",
+  "orientacionX": 10,
+  "orientacionY": 10,
+  "orientacionZ": 10,
+  "orientacionRealX": 53,
+  "orientacionRealY": 113,
+  "orientacionRealZ": 43,
+  "vueltas": 123
+}

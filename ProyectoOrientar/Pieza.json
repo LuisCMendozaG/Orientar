@@ -1,0 +1,13 @@
+{
+  "idPieza": 1383258,
+  "tipoPieza": "chasis",
+  "destino": "Canada",
+  "tipoEmbalaje": "madera",
+  "orientacionX": 10,
+  "orientacionY": 10,
+  "orientacionZ": 10,
+  "orientacionRealX": 20,
+  "orientacionRealY": 40,
+  "orientacionRealZ": 17,
+  "vueltas": 123
+}
